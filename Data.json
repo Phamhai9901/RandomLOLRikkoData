@@ -1,7 +1,8 @@
 {
     "players":[
         {
-            "DisplayName":"ABC"
+            "DisplayName":"ABC",
+            "RankString":"S"
         }
     ]
 }
