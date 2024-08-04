@@ -1,8 +1,22 @@
 {
     "players":[
         {
-            "DisplayName":"Lâm GD",
-            "RankString":"S"
+            "DisplayName":"LÃ¢m GD",
+            "RankString":"S",
+            "Achievement":[
+                {
+                    "Kill": 5,
+                    "Death": 7,
+                    "Assist": 4,
+                    "FBP": 0,
+                    "TD": 2,
+                    "Streak": 0,
+                    "IsWinStreak": true,
+                    "TotalGamePlay": 1,
+                    "TotalGameWin": 0,
+                    "WinRate": 0
+                }
+            ]
         },{
             "DisplayName":"2",
             "RankString":"S"
