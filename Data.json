@@ -20,32 +20,32 @@
             "DisplayName":"V.Anh Đít To",
             "RankString":"A",
             "Achievement":{
-                    "Kill": 22,
-                    "Death": 20,
-                    "Assist": 22,
+                    "Kill": 26,
+                    "Death": 23,
+                    "Assist": 23,
                     "FBP": 0,
                     "TD": 2,
-                    "Streak": 2,
+                    "Streak": 3,
                     "IsWinStreak": false,
-                    "TotalGamePlay": 3,
+                    "TotalGamePlay": 4,
                     "TotalGameWin": 1,
                     "BestStreakWin": 1,
-                    "BestStreakLose": 2
+                    "BestStreakLose": 3
                 } 
         },{
             "DisplayName":"Chiến DEV",
             "RankString":"B",
             "Achievement":{
-                    "Kill": 11,
-                    "Death": 4,
-                    "Assist": 7,
+                    "Kill": 14,
+                    "Death": 5,
+                    "Assist": 13,
                     "FBP": 1,
-                    "TD": 3,
-                    "Streak": 1,
+                    "TD": 4,
+                    "Streak": 2,
                     "IsWinStreak": true,
-                    "TotalGamePlay": 1,
-                    "TotalGameWin": 1,
-                    "BestStreakWin": 1,
+                    "TotalGamePlay": 2,
+                    "TotalGameWin": 2,
+                    "BestStreakWin": 2,
                     "BestStreakLose": 0
                 } 
         },{
@@ -68,46 +68,46 @@
             "DisplayName":"Quang DEV",
             "RankString":"A",
             "Achievement":{
-                    "Kill": 17,
-                    "Death": 14,
-                    "Assist": 21,
+                    "Kill": 20,
+                    "Death": 15,
+                    "Assist": 25,
                     "FBP": 1,
-                    "TD": 6,
-                    "Streak": 2,
+                    "TD": 9,
+                    "Streak": 3,
                     "IsWinStreak": true,
-                    "TotalGamePlay": 3,
-                    "TotalGameWin": 2,
-                    "BestStreakWin": 2,
+                    "TotalGamePlay": 4,
+                    "TotalGameWin": 3,
+                    "BestStreakWin": 3,
                     "BestStreakLose": 1
                 } 
         },{
             "DisplayName":"Mạnh GD",
             "RankString":"A",
             "Achievement":{
-                    "Kill": 2,
-                    "Death": 5,
-                    "Assist": 15,
+                    "Kill": 3,
+                    "Death": 8,
+                    "Assist": 27,
                     "FBP": 0,
                     "TD": 0,
                     "Streak": 1,
-                    "IsWinStreak": true,
-                    "TotalGamePlay": 1,
-                    "TotalGameWin": 1,
-                    "BestStreakWin": 1,
-                    "BestStreakLose": 0
+                    "IsWinStreak": false,
+                    "TotalGamePlay": 3,
+                    "TotalGameWin": 2,
+                    "BestStreakWin": 2,
+                    "BestStreakLose": 1
                 } 
         },{
             "DisplayName":"Tiến DEV",
             "RankString":"A",
             "Achievement":{
-                    "Kill": 17,
-                    "Death": 16,
-                    "Assist": 34,
+                    "Kill": 19,
+                    "Death": 21,
+                    "Assist": 37,
                     "FBP": 0,
                     "TD": 4,
-                    "Streak": 2,
-                    "IsWinStreak": true,
-                    "TotalGamePlay": 3,
+                    "Streak": 1,
+                    "IsWinStreak": false,
+                    "TotalGamePlay": 4,
                     "TotalGameWin": 2,
                     "BestStreakWin": 2,
                     "BestStreakLose": 1
@@ -117,13 +117,13 @@
             "RankString":"B",
             "Achievement":{
                     "Kill": 10,
-                    "Death": 20,
-                    "Assist": 27,
+                    "Death": 25,
+                    "Assist": 28,
                     "FBP": 0,
                     "TD": 2,
                     "Streak": 1,
-                    "IsWinStreak": true,
-                    "TotalGamePlay": 3,
+                    "IsWinStreak": false,
+                    "TotalGamePlay": 4,
                     "TotalGameWin": 2,
                     "BestStreakWin": 1,
                     "BestStreakLose": 1
@@ -196,16 +196,16 @@
             "DisplayName":"Hiệu DEV",
             "RankString":"B",
             "Achievement":{
-                    "Kill": 4,
-                    "Death": 15,
-                    "Assist": 14,
+                    "Kill": 13,
+                    "Death": 17,
+                    "Assist": 17,
                     "FBP": 0,
-                    "TD": 0,
-                    "Streak": 2,
-                    "IsWinStreak": false,
-                    "TotalGamePlay": 2,
-                    "TotalGameWin": 0,
-                    "BestStreakWin": 0,
+                    "TD": 2,
+                    "Streak": 1,
+                    "IsWinStreak": true,
+                    "TotalGamePlay": 3,
+                    "TotalGameWin": 1,
+                    "BestStreakWin": 1,
                     "BestStreakLose": 2
                 } 
         },{
@@ -244,16 +244,16 @@
             "DisplayName":"Huy Ê Đít To",
             "RankString":"A",
             "Achievement":{
-                    "Kill": 8,
-                    "Death": 9,
-                    "Assist": 6,
+                    "Kill": 13,
+                    "Death": 10,
+                    "Assist": 7,
                     "FBP": 0,
-                    "TD": 2,
-                    "Streak": 2,
-                    "IsWinStreak": false,
-                    "TotalGamePlay": 2,
-                    "TotalGameWin": 0,
-                    "BestStreakWin": 0,
+                    "TD": 7,
+                    "Streak": 1,
+                    "IsWinStreak": true,
+                    "TotalGamePlay": 3,
+                    "TotalGameWin": 1,
+                    "BestStreakWin": 1,
                     "BestStreakLose": 2
                 } 
         },{
@@ -261,16 +261,16 @@
             "RankString":"C",
             "Achievement":{
                     "Kill": 10,
-                    "Death": 15,
-                    "Assist": 14,
+                    "Death": 22,
+                    "Assist": 17,
                     "FBP": 0,
                     "TD": 1,
-                    "Streak": 2,
+                    "Streak": 3,
                     "IsWinStreak": false,
-                    "TotalGamePlay": 2,
+                    "TotalGamePlay": 3,
                     "TotalGameWin": 0,
                     "BestStreakWin": 0,
-                    "BestStreakLose": 2
+                    "BestStreakLose": 3
                 } 
         },{
             "DisplayName":"Sỹ CGI",
