@@ -1,4 +1,4 @@
-{
+﻿{
     "matchs":[
         {
             "MatchDate": "29-07-2024",
@@ -21,11 +21,48 @@
                         "Kill": 5,
                         "Death": 8,
                         "Assist": 10,
-                        "DamageDeal": 1,
-                        "DamageTake": 1,
+                        "DamageDeal": 37643,
+                        "DamageTake": 46162,
                         "TowerDestroyed": 1,
-                        "Gold": 1
+                        "Gold": 13237
+                    },{
+                        "PlayerName": "Đức Dev",
+                        "Kill": 3,
+                        "Death": 8,
+                        "Assist": 5,
+                        "DamageDeal": 21935,
+                        "DamageTake": 26712,
+                        "TowerDestroyed": 1,
+                        "Gold": 13931
+                    },{
+                        "PlayerName": "Tiến Dev",
+                        "Kill": 2,
+                        "Death": 8,
+                        "Assist": 9,
+                        "DamageDeal": 13498,
+                        "DamageTake": 24927,
+                        "TowerDestroyed": 0,
+                        "Gold": 9841
+                    },{
+                        "PlayerName": "Lâm GD",
+                        "Kill": 5,
+                        "Death": 7,
+                        "Assist": 4,
+                        "DamageDeal": 18453,
+                        "DamageTake": 21080,
+                        "TowerDestroyed": 2,
+                        "Gold": 12946
+                    },{
+                        "PlayerName": "Hoàng Dev",
+                        "Kill": 8,
+                        "Death": 7,
+                        "Assist": 9,
+                        "DamageDeal": 26552,
+                        "DamageTake": 30319,
+                        "TowerDestroyed": 1,
+                        "Gold": 14519
                     }
+
                 ]
             },
             "RedTeam":{
@@ -41,15 +78,51 @@
                 }],
                 "PlayerInTeam":[
                     {
-                        "PlayerName": "Quang DEV",
-                        "Kill": 5,
-                        "Death": 8,
-                        "Assist": 10,
-                        "DamageDeal": 1,
-                        "DamageTake": 1,
+                        "PlayerName": "Chiến DEV",
+                        "Kill": 11,
+                        "Death": 4,
+                        "Assist": 7,
+                        "DamageDeal": 29087,
+                        "DamageTake": 41250,
+                        "TowerDestroyed": 3,
+                        "Gold": 16999
+                    },{
+                        "PlayerName": "Đức GD",
+                        "Kill": 3,
+                        "Death": 6,
+                        "Assist": 11,
+                        "DamageDeal": 12138,
+                        "DamageTake": 31948,
                         "TowerDestroyed": 1,
-                        "Gold": 1
-                    }
+                        "Gold": 11297
+                    },{
+                        "PlayerName": "Sơn Anim",
+                        "Kill": 7,
+                        "Death": 1,
+                        "Assist": 13,
+                        "DamageDeal": 31464,
+                        "DamageTake": 22587,
+                        "TowerDestroyed": 2,
+                        "Gold": 16505
+                    },{
+                        "PlayerName": "Mạnh GD",
+                        "Kill": 2,
+                        "Death": 5,
+                        "Assist": 15,
+                        "DamageDeal": 6423,
+                        "DamageTake": 23834,
+                        "TowerDestroyed": 0,
+                        "Gold": 9670
+                    },{
+                        "PlayerName": "V.Anh Đít To",
+                        "Kill": 15,
+                        "Death": 7,
+                        "Assist": 7,
+                        "DamageDeal": 39193,
+                        "DamageTake": 40044,
+                        "TowerDestroyed": 2,
+                        "Gold": 16545
+                    },
                 ]
             }
         }
