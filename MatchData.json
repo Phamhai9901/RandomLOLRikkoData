@@ -12,8 +12,6 @@
                 "TotalElders": 0,
                 "TotalBaron": 0,
                 "TotalDrakes":[{
-                    "DrakeType": "CloudDrake",
-                    "DrakeType": "CloudDrake",
                     "DrakeType": "CloudDrake"
                 }],
                 "PlayerInTeam":[
@@ -72,9 +70,7 @@
                 "TotalElders": 0,
                 "TotalBaron": 0,
                 "TotalDrakes":[{
-                    "DrakeType": "OceanDrake",
-                    "DrakeType": "CloudDrake",
-                    "DrakeType": "CloudDrake"
+                    "DrakeType": "OceanDrake"
                 }],
                 "PlayerInTeam":[
                     {
