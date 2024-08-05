@@ -10,11 +10,23 @@
                 "TotalHeralds": 1,
                 "TotalElders": 0,
                 "TotalBaron": 0,
-                "TotalDrakes":{
-                    "CloudDrake",
-                    "CloudDrake",
-                    "CloudDrake"
-                }
+                "TotalDrakes":[{
+                    "DrakeType": "CloudDrake",
+                    "DrakeType": "CloudDrake",
+                    "DrakeType": "CloudDrake"
+                }],
+                "PlayerInTeam":[
+                    {
+                        "PlayerName": "Quang DEV",
+                        "Kill": 5,
+                        "Death": 8,
+                        "Assist": 10,
+                        "DamageDeal": 1,
+                        "DamageTake": 1,
+                        "TowerDestroyed": 1,
+                        "Gold": 1
+                    }
+                ]
             },
             "RedTeam":{
                 "IsTeamWin": false,
@@ -22,11 +34,23 @@
                 "TotalHeralds": 0,
                 "TotalElders": 0,
                 "TotalBaron": 0,
-                "TotalDrakes":{
-                    "OceanDrake",
-                    "CloudDrake",
-                    "CloudDrake"
-                }
+                "TotalDrakes":[{
+                    "DrakeType": "OceanDrake",
+                    "DrakeType": "CloudDrake",
+                    "DrakeType": "CloudDrake"
+                }],
+                "PlayerInTeam":[
+                    {
+                        "PlayerName": "Quang DEV",
+                        "Kill": 5,
+                        "Death": 8,
+                        "Assist": 10,
+                        "DamageDeal": 1,
+                        "DamageTake": 1,
+                        "TowerDestroyed": 1,
+                        "Gold": 1
+                    }
+                ]
             }
         }
     ]
