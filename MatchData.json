@@ -11,9 +11,7 @@
                 "TotalHeralds": 1,
                 "TotalElders": 0,
                 "TotalBaron": 0,
-                "TotalDrakes":[{
-                    "DrakeType": "CloudDrake"
-                }],
+                "TotalDrakesString":["CloudDrake"],
                 "PlayerInTeam":[
                     {
                         "PlayerName": "Quang DEV",
@@ -69,9 +67,7 @@
                 "TotalHeralds": 0,
                 "TotalElders": 0,
                 "TotalBaron": 0,
-                "TotalDrakes":[{
-                    "DrakeType": "OceanDrake"
-                }],
+                "TotalDrakesString":["OceanDrake"],
                 "PlayerInTeam":[
                     {
                         "PlayerName": "Chiến DEV",
