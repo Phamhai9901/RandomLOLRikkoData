@@ -3,10 +3,10 @@
         {
             "Id": 0,
             "MatchDate": "29-07-2024",
-            "MatchCount": "1",
+            "MatchCount": 1,
             "MatchTime": "37:41",
             "BlueTeam":{
-                "IsTeamWin": true,
+                "IsTeamWin": false,
                 "TotalVoidGrubs": 6,
                 "TotalHeralds": 1,
                 "TotalElders": 0,
@@ -32,7 +32,7 @@
                         "TowerDestroyed": 1,
                         "Gold": 13931
                     },{
-                        "PlayerName": "Tiến Dev",
+                        "PlayerName": "Tiến DEV",
                         "Kill": 2,
                         "Death": 8,
                         "Assist": 9,
@@ -50,7 +50,7 @@
                         "TowerDestroyed": 2,
                         "Gold": 12946
                     },{
-                        "PlayerName": "Hoàng Dev",
+                        "PlayerName": "Hoàng DEV",
                         "Kill": 8,
                         "Death": 7,
                         "Assist": 9,
@@ -62,7 +62,7 @@
                 ]
             },
             "RedTeam":{
-                "IsTeamWin": false,
+                "IsTeamWin": true,
                 "TotalVoidGrubs": 0,
                 "TotalHeralds": 0,
                 "TotalElders": 0,
